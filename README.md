@@ -1,4 +1,4 @@
-This is a weather app.
+This is a weather app made with the help of React.js
 
 # Website
 
